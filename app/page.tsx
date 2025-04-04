@@ -283,7 +283,7 @@ export default function Home() {
       <section ref={aboutRef} className="py-16 bg-gray-50">
         <div className="container mx-auto px-4 text-center">
           <p className="text-primary italic mb-2 text-lg">catering andalan gak bikin kantong kering</p>
-          <h2 className="text-3xl md:text-4xl font-bold mb-8">About</h2>
+          <h2 className="text-3xl md:text-4xl font-bold mb-8">TENTANG KAMI/h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-gray-700 mb-4">
               KANE ABIEZZ adalah layanan catering yang didedikasikan untuk menyajikan makanan berkualitas dengan harga
